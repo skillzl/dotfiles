@@ -8,5 +8,5 @@
 - [npm](./npm): global npm packages
 - [vscode](./vscode): my vsc configs
 - [configs](./configs): config files for prettier, eslint, etc
-- [./zshrc](./zshrc): my `zshrc` file
+- [.zshrc](.zshrc): my `zshrc` file
 - [install.sh](./install.sh): installer script to install most of the tools for me (nodejs, zsh, etc)
