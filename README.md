@@ -4,7 +4,7 @@
 
 ## Files
 
-- [Brave Extensions](./brave-extensions): brave extensions that I use
+- [Brave Extensions](./brave-extensions.md): brave extensions that I use
 - [npm](./npm): global npm packages
 - [vscode](./vscode): my vsc configs
 - [configs](./configs): config files for prettier, eslint, etc
