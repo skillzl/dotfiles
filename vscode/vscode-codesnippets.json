@@ -1,0 +1,33 @@
+{
+  "CSS reset": {
+    "scope": "css,scss",
+    "prefix": "css",
+    "body": [
+      "*,",
+      "*::after,",
+      "*::before {",
+      "  padding: 0;",
+      "  margin: 0;",
+      "  box-sizing: border-box;",
+      "}"
+    ]
+  },
+  "Typescript Import react": {
+    "scope": "javascriptreact, javascript, typescript, typescriptreact",
+    "prefix": "react",
+    "body": [
+      "import * as React from \"react\";"
+    ]
+  },
+  "Import Styled Components": {
+    "scope": "javascript, javascriptreact, typescript, typescriptreact",
+    "prefix": "styled",
+    "body": "import styled from \"styled-components\";"
+  },
+  "Environment variable": {
+    "scope": "javascript, javascriptreact, typescript, typescriptreact",
+    "prefix": "env",
+    "body": "process.env.${0}",
+    "description": "Env"
+  }
+}
